@@ -8,7 +8,7 @@ Amaç, `https://reqres.in` adresinden bir [GET] isteği göndererek kullanıcın
 ## 👩‍🎓 Öğrenci Bilgileri
 İsim: Eslam Khalboss  
 Öğrenci No: 030121114  
-Ders: Software Testing
+Ders: Sekötrde Yazılım Test Mühendisliği
 
 ---
 
@@ -38,10 +38,10 @@ Projenin çalışması için gerekli araçlar:
 
 ## ▶️ Test Nasıl Çalıştırılır?
 
-1- Projeyi IntelliJ IDEA ile açın
-2- Aşağıdaki dizine gidin:
-    src/test/java/GetUserTest.java
-3-Dosyaya sağ tıklayın
-4-Run 'GetUserTest' seçeneğini seçin 
-5-Test sonucu aşağıdaki gibi görüntülenecektir:
-✔ 1 Test Passed !
+1. **Projeyi IntelliJ IDEA ile açın**
+2. **Aşağıdaki dizine gidin:**  
+   `src/test/java/GetUserTest.java`
+3. **Dosyaya sağ tıklayın**
+4. **Run 'GetUserTest'** seçeneğini seçin
+5. **Test sonucu aşağıdaki gibi görüntülenecektir:**  
+   ✔️ *1 Test Passed!*
